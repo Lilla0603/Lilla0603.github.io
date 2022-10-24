@@ -1,0 +1,107 @@
+header {
+  background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+    height: 800px;
+    width: 2500px;
+}
+
+.hi {
+  font-family: ‘Abril Fatface’;
+  font-size: 60px;
+padding: 600px 100px 5px 500px;
+}
+
+.anakin {
+  font-family: ‘Abril Fatface’;
+  font-size: 90px;
+padding: 0px 200px 5px 480px;
+}
+
+.notable {
+  font-family: 'Josefin Sans';
+  width: 550px;
+  margin-left: 500px;
+}
+
+.experience {
+  font-family: 'Josefin Sans';
+   width: 550px;
+  margin-left: 500px;
+}
+
+.personal {
+  font-family: 'Josefin Sans';
+   width: 550px;
+}
+
+.formalContainer {
+   width: 550px;
+  margin-left: 500px;
+}
+
+.experienceClass {
+    width: 550px;
+  margin-left: 500px;
+    font-family: 'Josefin Sans';
+}
+
+.designedClass {
+   width: 600px;
+  margin-left: 500px;
+  font-family: 'Josefin Sans';
+}
+
+.elso {
+  margin-top: 50px;
+  width: 550px;
+  margin-left: 500px;
+  font-family: 'Josefin Sans';
+}
+
+.elsoLista {
+  width: 550px;
+  margin-left: 500px;
+  font-family: 'Josefin Sans';
+  font-size: 16px;
+}
+
+.masodik {
+  background-color: dimgrey;
+  color: white;
+   width: 550px;
+  margin-left: 500px;
+}
+
+blockquote {
+  background: #222;
+  width: 700px;
+  height: 150px;
+  margin-left: 450px;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+  font-size: 40px;
+  margin-top: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0 50px 1 em 50x;
+  line-height: 115%;
+}
+
+blockquote::before {
+  content: '"';
+  font-size: 60px;
+  margin-left: 20px;
+  vertical-align: top;
+}
+
+.together, .iFind, .whenI {
+  text-align: center;
+}
+
+ul {
+  list-style-type: square;
+}
+
+.formalContainer {
+    font-family: 'Josefin Sans';
+  font-size: 15px;
+}
